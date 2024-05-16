@@ -1,16 +1,16 @@
-# Charton Financial Group Clickable HTML Email Signature
+# Rockwood Property Buyers Clickable HTML Email Signature
 
 This is a responsive clickable HTML email signature
 
 
 ## Previews
 
-![Email Signature](https://developer-zahid.github.io/Charton-Financial-Group-Email-Signature/images/preview.png)
+![Email Signature](https://developer-zahid.github.io/Rockwood-Property-Buyers-Email-Signature/images/preview.png)
 
 
 ## Live Preview Link 👇
 
-https://developer-zahid.github.io/Charton-Financial-Group-Email-Signature/
+https://developer-zahid.github.io/Rockwood-Property-Buyers-Email-Signature/
 
 
 ## Authors
